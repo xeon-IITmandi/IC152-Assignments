@@ -39,4 +39,4 @@ print(finallist)
 
 for c in range(len(list2)):
     print(f"the value of S for x-{c+1} is: {finallist[c][1]}")
-print(f"x-{len(list2)} is the median and we can see the minimum value of S comes at the median.")
+print(f"The median is [{xlist[(n//2)-1]},{xlist[((n+2)//2)-1]}].\nx-{len(list2)} is the median and we can see the minimum value of S comes at the median.")
