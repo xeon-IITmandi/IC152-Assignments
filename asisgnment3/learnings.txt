@@ -1,0 +1,4 @@
+1)To define functions and call them 
+2)Using for loops, while loops and conditionals.
+3)Using string methods 
+4)Using list methods

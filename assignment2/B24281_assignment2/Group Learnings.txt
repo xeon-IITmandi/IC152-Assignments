@@ -1,0 +1,3 @@
+Group Learnings-
+1. Learning how to apply string methods.
+2. Learning how to open, read and write text files using python.

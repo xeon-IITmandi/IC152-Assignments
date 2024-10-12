@@ -1,0 +1,4 @@
+Group Learnings - 
+(1) List manipulation
+(2) List methods and functions
+(3) For and while loops
